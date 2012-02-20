@@ -150,6 +150,10 @@ p {
     border-radius: 35px;
 }
 
+.no-js .capsule {
+    left: 50%;
+}
+
 .blurb {
     margin-top: 2em;
     font-size: 2em;
