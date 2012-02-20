@@ -93,6 +93,7 @@ p {
 .logo {
     display: block;
     height: 300px;
+    text-decoration: none;
 }
 
 .outer-circle {
